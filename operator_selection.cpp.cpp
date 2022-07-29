@@ -35,5 +35,9 @@ cout<<num1<<"*"<<num2<<"="<<num1*num2<<endl;
   else if (a == '-'){
  cout<<num1<<"-"<<num2<<"="<<num1-num2<<endl;  
  
+    system("pause");
+    return 0;
+    
+    
  }
  
